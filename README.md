@@ -3,21 +3,38 @@
 </p>
 
 </br>
-</br>
 
-# Repositories ReactNative
-Add a user and see all your repositories, and through webView see the integrated browser detailing the repository
+<h2 align="center">
+   List GitHub repositories with React Native.
+</h2>
 
-### Prerequisites
-* NodeJs
-* For use the emulator and teste the aplication use this guide. [ link ] (https://docs.rocketseat.dev/ambiente-react-native/introducao)
+<p align="center">
+<a href="#" />
+<a href="" />
+</p>
 
-## Built With
-* [React Native](https://facebook.github.io/react-native/) - The mobile framework used
-* [Eslint] (https://eslint.org/)
-* [Async Storage] (https://facebook.github.io/react-native/docs/asyncstorage)
 
-<br/>
-<br/>
+## :rocket: Technologies
+-  [React Native](https://facebook.github.io/react-native/)
+
+
+## :information_source: How To Use
+
+```bash
+# Clone this repository
+$ git clone https://github.com/lukemorales/react-rocketshoes
+
+# Go into the repository
+$ cd react-rocketshoes
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
+
+### :arrow_down: Preview
+<br />
 
 ![20191215_171810](https://user-images.githubusercontent.com/49171033/70868376-0f768080-1f5f-11ea-9e09-74fc6833b565.gif)
