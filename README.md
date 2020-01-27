@@ -13,7 +13,7 @@
   <a href="#information_source-how-to-use" />
 </p>
 
-< /br>
+<br />
 
 ## :rocket: Technologies
 -  [React Native](https://facebook.github.io/react-native/)
