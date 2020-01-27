@@ -1,16 +1,16 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/49171033/70868376-0f768080-1f5f-11ea-9e09-74fc6833b565.gif">
-</p>
-
-</br>
-
 <h2 align="center">
    List GitHub repositories with React Native.
 </h2>
 
+<br />
+
 <p align="center">
-<a href="#" />
-<a href="" />
+ <img src="https://user-images.githubusercontent.com/49171033/70868376-0f768080-1f5f-11ea-9e09-74fc6833b565.gif">
+</p>
+
+<p align="center">
+  <a href="#" />
+  <a href="" />
 </p>
 
 
