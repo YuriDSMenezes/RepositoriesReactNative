@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="#" />
-  <a href="" />
+  <a href="#rocket-technologies" />
+  <a href="#information_source-how-to-use" />
 </p>
 
+< /br>
 
 ## :rocket: Technologies
 -  [React Native](https://facebook.github.io/react-native/)
@@ -21,6 +22,8 @@
 -  [React Vector Icons](https://github.com/oblador/react-native-vector-icons)
 -  [Async Storage React Native](https://github.com/react-native-community/async-storage
 -  [Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-native.md)
+
+<br />
 
 ## :information_source: How To Use
 
