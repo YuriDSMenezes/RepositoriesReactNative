@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>
-  <a href="#information_source-how-to-use">How to use</a>
+  | <a href="#rocket-technologies">Technologies</a> |
+  <a href="#information_source-how-to-use">How to use</a> |
 </p>
 
 <br />
