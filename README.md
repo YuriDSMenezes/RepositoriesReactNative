@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400" height="300" src="https://user-images.githubusercontent.com/49171033/70868476-076b1080-1f60-11ea-982a-bcb11da3440c.png">
+ <img src="https://user-images.githubusercontent.com/49171033/70868376-0f768080-1f5f-11ea-9e09-74fc6833b565.gif">
 </p>
 
 </br>
@@ -16,7 +16,11 @@
 
 ## :rocket: Technologies
 -  [React Native](https://facebook.github.io/react-native/)
-
+-  [Axios](https://github.com/axios/axios)
+-  [Prop Types](https://www.npmjs.com/package/prop-types)
+-  [React Vector Icons](https://github.com/oblador/react-native-vector-icons)
+-  [Async Storage React Native](https://github.com/react-native-community/async-storage
+-  [Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-native.md)
 
 ## :information_source: How To Use
 
@@ -33,8 +37,3 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-
-### :arrow_down: Preview
-<br />
-
-![20191215_171810](https://user-images.githubusercontent.com/49171033/70868376-0f768080-1f5f-11ea-9e09-74fc6833b565.gif)
