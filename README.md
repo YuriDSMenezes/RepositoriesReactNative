@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies" />
-  <a href="#information_source-how-to-use" />
+  <a href="#rocket-technologies">Technologies</a>
+  <a href="#information_source-how-to-use">How to use</a>
 </p>
 
 <br />
@@ -20,7 +20,7 @@
 -  [Axios](https://github.com/axios/axios)
 -  [Prop Types](https://www.npmjs.com/package/prop-types)
 -  [React Vector Icons](https://github.com/oblador/react-native-vector-icons)
--  [Async Storage React Native](https://github.com/react-native-community/async-storage
+-  [Async Storage React Native](https://github.com/react-native-community/async-storage)
 -  [Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-native.md)
 
 <br />
